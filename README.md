@@ -19,4 +19,4 @@ __
 - Take a look at my repositories
 --->
 
-- Take a look at my repositories :wink:
+- ### _Take a look at my repositories :wink:_
