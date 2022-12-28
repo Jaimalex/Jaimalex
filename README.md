@@ -5,6 +5,10 @@ You can click the Preview link to take a look at your changes.
 # **_- Hi, I’m @Jaimalex_**
 
 
+## **About me:**
+# :desktop_computer: Studying computer engineering
+# :footprints: learning everyday
+
 ## **About my work:** 
 __
 ![c++](https://cdn.iconscout.com/icon/free/png-256/cplusplus-2-1175245.png)
