@@ -8,7 +8,8 @@ You can click the Preview link to take a look at your changes.
 ## **About my work:**
 
 
-![c++](https://isocpp.org/assets/images/cpp_logo.png) ![bash](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/256x256.png)
+![c++](https://cdn.iconscout.com/icon/free/png-256/cplusplus-3628708-3029933.png)
+![bash](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/256x256.png)
 
 <!---
 - Take a look at my repositories
