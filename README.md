@@ -6,6 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ## **About my work:**
+
+![imagename](image link)
+![c++](https://isocpp.org/assets/images/cpp_logo.png)
+
 <!---
 - Take a look at my repositories
 --->
