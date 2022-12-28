@@ -14,7 +14,7 @@ __
 ![c++](https://cdn.iconscout.com/icon/free/png-256/cplusplus-2-1175245.png)
 ![bash](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/256x256.png)
 ![verilog](https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png)
-![assembly](https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl)
+![assembly](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/20021419/image/medium-506985c244189a3aa5e1320d82286ee1.png)
 
 <!---
 - Take a look at my repositories
