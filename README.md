@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## **About me:**
 # :desktop_computer: Studying Computer Engineering
-# :footprints: learning everyday
+# :footprints: Learning everyday
 
 ## **About my work:** 
 __
