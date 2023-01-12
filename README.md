@@ -3,10 +3,10 @@ Jaimalex/Jaimalex is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## **_- Hi, I’m @Jaimalex_**
-
+<!---
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Jaimalex&show_icons=true&count_private=true&theme=dark">](https://metrics.lecoq.io/Jaimalex#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Jaimalex&show_icons=true&count_private=true">](https://metrics.lecoq.io/Jaimalex#gh-light-mode-only)
-
+--->
 ### **About me:**
 ## :computer: Studying Computer Engineering
 ## :footprints: Learning everyday
