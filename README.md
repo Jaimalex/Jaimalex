@@ -47,4 +47,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 
-- #### _Take a look at my repositories(not repos yet) :wink:_
+- #### _Take a look at my repositories :wink:_
