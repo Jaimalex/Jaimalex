@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="Verilog" width=40 height=40>
 </a>
 <a href="https://www.swi-prolog.org/" title="Prolog" style="display:flex;">
-  <img src="https://www.swi-prolog.org/icons/swipl.png" alt="Prolog" width=40 height=40>
+  <img src="https://miro.medium.com/v2/resize:fit:512/1*4HUALdqchTyK8rUhWxwLMg.png" alt="Prolog" width=40 height=40>
 </a>
 </p>
 
