@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # 💻 About My Work
 
-### I work with a variety of tools and technologies, including programming languages, operating systems, and more. Here are some of the main technologies I use:
+#### I work with a variety of tools and technologies, including programming languages, operating systems, and more. Here are some of the main technologies I use:
 
 # 🛠️ Technologies & Tools
 
